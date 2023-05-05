@@ -1,2 +1,3 @@
 feature file
-thanku
+file mm test
+testing done
